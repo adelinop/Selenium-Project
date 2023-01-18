@@ -1,0 +1,9 @@
+/target/
+/src/main/java
+/src/main/resources
+/.metadata
+/.settings
+/bin
+/drivers
+/.classpath
+/.project
